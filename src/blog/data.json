@@ -1,4 +1,12 @@
 {
+  "homage-to-truffle-local-testnet-ganache-whats-next": {
+    "title": "An homage to Truffle and its local testnet, Ganache, and what’s next!",
+    "date": "2022-05-24",
+    "author": "Kingsley Arinze",
+    "published": true,
+    "excerpt": "Did you know the Truffle local testnet was inspired by the original Ethereum testnet? This story and more as we look back on the history of Truffle.",
+    "image": "/img/blog/thumbnails/ganache-for-blog.jpg"
+  },
   "contributors-youve-earned-a-gitpoap": {
     "title": "Hey Trufflesuite contributors, you’ve earned a POAP!",
     "date": "2022-04-07",
