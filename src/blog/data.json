@@ -7,6 +7,14 @@
     "excerpt": "Did you know the Truffle local testnet was inspired by the original Ethereum testnet? This story and more as we look back on the history of Truffle.",
     "image": "/img/blog/thumbnails/ganache-for-blog.jpg"
   },
+  "build-on-web3-with-truffle-vs-code-extension": {
+    "title": "Build on Web3 with the Truffle for VS Code extension",
+    "date": "2022-04-18",
+    "author": "Kingsley Arinze",
+    "published": true,
+    "excerpt": "We're excited to announce the release of the Truffle for Microsoft VS Code Extension...",
+    "image": "/img/blog/thumbnails/blog-vscode-ext-thumb.png"
+  },
   "contributors-youve-earned-a-gitpoap": {
     "title": "Hey Trufflesuite contributors, you’ve earned a POAP!",
     "date": "2022-04-07",

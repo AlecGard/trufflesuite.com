@@ -40,11 +40,19 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.inlinehilite
   - markdown.extensions.md_in_html
+  - attr_list
   - toc:
       permalink: true
 use_directory_urls: true
 plugins:
   - search
+  - exclude-search:
+      exclude:
+        - blog/the-best-things-to-do-in-seattle-during-trufflecon
+        - events/*
+        - staff/*
+        - trufflecon2020/*
+      exclude-unreferenced: true
   - awesome-pages
   - macros:
       module_name: main
