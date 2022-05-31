@@ -27,7 +27,6 @@ Next, double-click on the downloaded file, follow the prompts, and you're up and
 </p>
 
 ## 2. Create a Workspace
-
 When you open Ganache for the first time, you'll see the home screen. On this screen you're prompted to load an existing workspace (if any exist), create a new custom workspace, or quickstart a one-click blockchain with [default options](/docs/ganache/reference/workspace-default-configuration). For now, let's go with a quickstart workspace. Select the desired blockchain from the `QUICKSTART` drop down; you can choose to start an Ethereum node or Corda network, then click the `QUICKSTART` button.
 
 ![Empty Home Screen](/img/docs/ganache/ganache-home-empty.png)
